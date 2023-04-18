@@ -1,3 +1,5 @@
-This is my README.md file
+CP640 Machine Learning project (Spring 2022)
 
-CP640 Machine Learning project ...
+My machine learning project for my Master of Computer Science (Wilfrid Laurier University).
+
+I took historical Major League Baseball data from a Kaggle dataset and ran some experiments in an attempt to predict future batting success.

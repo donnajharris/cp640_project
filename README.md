@@ -14,9 +14,9 @@ The project, as submitted, was too large to be included on GitHub. As a result, 
 
 The complete set of project deliverables includes:
 
-- [a proposal document](#)
+- [a proposal document](https://github.com/donnajharris/cp640_project/blob/main/deliverables/cp640_proposal_DonnaHarris.pdf)
 - [the Jupyter notebook(s) and source data](https://donnajharris.xyz/cp640s22fp/harr2890_project.zip)
-- [a final report document](#), and
+- [a final report document](https://github.com/donnajharris/cp640_project/blob/main/deliverables/harr2890_project_report.pdf), and
 - [a video presentation](https://youtu.be/etkXKaxtyuI)
 
 ======================

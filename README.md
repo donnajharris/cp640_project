@@ -6,9 +6,9 @@ An indepedently researched and implemented machine learning project in the Maste
 
 I took historical Major League Baseball data from a Kaggle dataset (as determined by the project requirements) and ran some experiments in an attempt to predict future batting success.
 
-Kaggle dataset source: https://www.kaggle.com/datasets/darinhawley/mlb-batting-stats-by-game-19012021
+Kaggle dataset source: https://www.kaggle.com/datasets/darinhawley/mlb-batting-stats-by-game-19012021 (external link)
 
-The project, as submitted, was too large to be included on GitHub. As a result, the project .zip file (which includes the data files described in the Jupyter notebooks on GitHub) [is available for download here](https://donnajharris.xyz/cp640s22fp/harr2890_project.zip).
+The project, as submitted, was too large to be included on GitHub. As a result, the project .zip file (which includes the data files described in the Jupyter notebooks on GitHub) [is available for download here](https://donnajharris.xyz/cp640s22fp/harr2890_project.zip) (external link).
 
 #### Project Deliverables
 

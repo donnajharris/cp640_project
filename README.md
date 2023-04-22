@@ -15,9 +15,9 @@ The project, as submitted, was too large to be included on GitHub. As a result, 
 The complete set of project deliverables includes:
 
 - [a proposal document](https://github.com/donnajharris/cp640_project/blob/main/deliverables/cp640_proposal_DonnaHarris.pdf)
-- [the Jupyter notebook(s) and source data (external link)](https://donnajharris.xyz/cp640s22fp/harr2890_project.zip)
+- [the Jupyter notebook(s) and source data](https://donnajharris.xyz/cp640s22fp/harr2890_project.zip) (external link)
 - [a final report document](https://github.com/donnajharris/cp640_project/blob/main/deliverables/harr2890_project_report.pdf), and
-- [a video presentation (external link)](https://youtu.be/etkXKaxtyuI)
+- [a video presentation](https://youtu.be/etkXKaxtyuI) (external link)
 
 ======================
 
@@ -35,22 +35,22 @@ The complete set of project deliverables includes:
 
 _Please run the Notebook series in sequential, step order._
 
-**Step 1** (harr2890_project_step1_data_prep)
+**Step 1** [(harr2890_project_step1_data_prep)](https://github.com/donnajharris/cp640_project/blob/main/harr2890_project/harr2890_project_step1_data_prep.ipynb)
 
 - General data preprocessing; must be run before all other steps
 
-**Step 2** (harr2890_project_step2_hof_data_prep)
+**Step 2** [(harr2890_project_step2_hof_data_prep)](https://github.com/donnajharris/cp640_project/blob/main/harr2890_project/harr2890_project_step2_hof_data_prep.ipynb)
 
 - Hall of Fame Approach preprocessing; must be run before Step 3
 
-**Step 3** (harr2890_project_step3_hof_modelling)
+**Step 3** [(harr2890_project_step3_hof_modelling)](https://github.com/donnajharris/cp640_project/blob/main/harr2890_project/harr2890_project_step3_hof_modelling.ipynb)
 
 - Hall of Fame Approach modelling (selection and evaluation)
 
-**Step 4** (harr2890_project_step4_ops_data_prep)
+**Step 4** [(harr2890_project_step4_ops_data_prep)](https://github.com/donnajharris/cp640_project/blob/main/harr2890_project/harr2890_project_step4_ops_data_prep.ipynb)
 
 - OPS Approach preprocessing; must be run before Step 5
 
-**Step 5** (harr2890_project_step5_ops_modelling)
+**Step 5** [(harr2890_project_step5_ops_modelling)](https://github.com/donnajharris/cp640_project/blob/main/harr2890_project/harr2890_project_step5_ops_modelling.ipynb)
 
 - OPS Approach modelling (selection and evaluation)

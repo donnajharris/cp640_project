@@ -15,9 +15,9 @@ The project, as submitted, was too large to be included on GitHub. As a result, 
 The complete set of project deliverables includes:
 
 - [a proposal document](#)
-- [the Jupyter notebook(s)](#)
+- [the Jupyter notebook(s) and source data](https://donnajharris.xyz/cp640s22fp/harr2890_project.zip)
 - [a final report document](#), and
-- [a video presentation](#)
+- [a video presentation](https://youtu.be/etkXKaxtyuI)
 
 ======================
 

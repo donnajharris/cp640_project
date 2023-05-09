@@ -1,6 +1,6 @@
 # CP640 Machine Learning project (Spring 2022)
 
-An indepedently researched and implemented machine learning project in the Master of Computer Science program at Wilfrid Laurier University.
+An independently researched and implemented machine learning project in the Master of Computer Science program at Wilfrid Laurier University.
 
 ## Overview
 
